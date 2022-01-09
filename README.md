@@ -14,6 +14,7 @@
 - 👤 Building my personal website with Node, Express, React and DynamoDB (NERD stack hehe funny joke)
 - 📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
 - 🗝️ Attending Hackathons with amazing teammates
+  - [ ] [🏆 Map Hacks 21](https://devpost.com/software/project-lowkey)
   - [ ] [ConUHacks VI](https://conuhacks.io/)
 
 - 🤫 Secret projects (coming soon...)
