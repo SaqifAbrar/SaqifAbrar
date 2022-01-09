@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=36&center=true&vCenter=true&width=500&height=60&lines=Glad+you're+here!+%F0%9F%91%8B;Checkout+my+GitHub+%F0%9F%94%AD)](https://git.io/typing-svg)
 
-##📖 About Me
+## 📖 About Me
 ---
 🌐 Full-stack Developer
 💻 Machine Learning Enthusiast
 🎓 Software Engineer
 
-##📖 What I'm Doing Right Mow
+## 📖 What I'm Doing Right Mow
 ---
 - 🌱 Developing [Green Light Mentorship's](https://github.com/SaqifAbrar/glm-website-nextjs) website with Next.JS/React.JS & Sass
 - 👤 Building my personal website with Node, Express, React and DynamoDB (NERD stack hehe funny joke)
