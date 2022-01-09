@@ -15,10 +15,11 @@
 📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
 🗝️ Attending Hackathons with amazing teammates
 - [ ] [ConUHacks VI](https://conuhacks.io/)
+
 🤫 Secret projects (coming soon...)
 
 ```javascript 
-  const readme[🤔-What-I'm-Thinking] = "WILL SCHOOL BE ONLINE OR IN-PERSON ???";
+  const readme[🤔WhatIAmThinking] = "WILL SCHOOL BE ONLINE OR IN-PERSON ???";
 ```
 
 > I'm still updating my profile readme so stay tuned to see more!
