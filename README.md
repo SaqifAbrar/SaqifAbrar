@@ -10,13 +10,13 @@
 
 ##📖 What I'm Doing Right Mow
 ---
-🌱 Developing [Green Light Mentorship's](https://github.com/SaqifAbrar/glm-website-nextjs) website with Next.JS/React.JS & Sass
-👤 Building my personal website with Node, Express, React and DynamoDB (NERD stack hehe funny joke)
-📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
-🗝️ Attending Hackathons with amazing teammates
-- [ ] [ConUHacks VI](https://conuhacks.io/)
+- 🌱 Developing [Green Light Mentorship's](https://github.com/SaqifAbrar/glm-website-nextjs) website with Next.JS/React.JS & Sass
+- 👤 Building my personal website with Node, Express, React and DynamoDB (NERD stack hehe funny joke)
+- 📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
+- 🗝️ Attending Hackathons with amazing teammates
+  - [ ] [ConUHacks VI](https://conuhacks.io/)
 
-🤫 Secret projects (coming soon...)
+- 🤫 Secret projects (coming soon...)
 
 ```javascript 
   const readme[🤔WhatIAmThinking] = "WILL SCHOOL BE ONLINE OR IN-PERSON ???";
