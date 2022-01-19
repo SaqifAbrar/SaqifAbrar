@@ -7,7 +7,7 @@
 💻 Machine Learning Enthusiast
 🎓 Software Engineer
 
-## 📖 What I'm Doing Right Mow
+## 📖 What I'm Doing Right Now
 - 🌱 Developing [Green Light Mentorship's](https://github.com/SaqifAbrar/glm-website-nextjs) website with Next.JS/React.JS & Sass
 - 👤 Building my personal website with Node, Express, React and DynamoDB (NERD stack hehe funny joke)
 - 📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
