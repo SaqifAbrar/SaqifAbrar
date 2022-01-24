@@ -13,8 +13,8 @@
 - 📈 Creating an ML Stock Price Predictor with TensorFlow and Pandas (will be public soon)
 - 🗝️ Attending Hackathons with amazing teammates
   - [X] [Map Hacks 21 🏆](https://devpost.com/software/project-lowkey)
-  - [ ] [McHacks](https://www.mchacks.ca/)
-  - [ ] [ConUHacks VI](https://conuhacks.io/)
+  - [X] [McHacks](https://www.mchacks.ca/)
+
 
 - 🤫 Secret projects (coming soon...)
 
