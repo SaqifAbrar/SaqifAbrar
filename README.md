@@ -5,6 +5,8 @@
     <td valign="top" width="50%">
       <h2><code>👋 Hi! My name is Saqif</code></h2>
       <p><i>I love tech news, learning more about algorithmns for competitive programming and building stuff on the cloud. I'm a recent graduate from the University of Guelph and am currently working on training AI           agents and deploying them for the web.</i></p>
+    </td>
+    <td valign="top" width="50%">
       <h2><code>💭 What I've been up to</code></h2>
       <!-- - 🔭 I'm currently on Slate, an all-in-one email cleaning SaaS solution -->
       <p>🔭 I'm currently building CodeMotion, a real-time path-finding algorithm visualizer</p>
@@ -13,7 +15,9 @@
       <p>💫 Trying to learn Vim</p>
       <br/>
     </td>
-    <td valign="top" width="50%">
+  </tr>
+  <tr>
+    <td>
       <!--<h3 align="center">☀︎</h3>-->
       <h2><code>🛠️ Tech I use</code></h2>
       <div>
@@ -34,6 +38,8 @@
         <img alt="PostHog" src="https://img.shields.io/badge/posthog-232429?style=for-the-badge&logo=posthog&logoColor=white"/>
         <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       </div>
+    </td>
+    <td>
     </td>
   </tr>
 </table>
